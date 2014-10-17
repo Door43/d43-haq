@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[haq:home|Door43 (haq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-haq|d43-haq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-haq/archive/master.zip|d43-haq.zip]]
+
+**Recent Changes**
+{{changes>ns = haq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/haq|Ethnologue data]]
+
